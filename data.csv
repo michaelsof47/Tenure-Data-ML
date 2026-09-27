@@ -1,0 +1,501 @@
+customer_id,tenure_bulan,biaya_bulanan,jumlah_komplain,tipe_kontrak,pakai_layanan_tambahan,churn
+1,52,90.51,1,1 tahun,tidak,0
+2,15,44.87,2,bulanan,ya,0
+3,61,53.03,1,bulanan,ya,0
+4,21,63.45,1,2 tahun,tidak,0
+5,24,45.37,0,bulanan,tidak,0
+6,3,60.52,1,1 tahun,ya,1
+7,22,77.15,3,bulanan,tidak,1
+8,53,94.1,2,1 tahun,ya,0
+9,2,96.72,1,bulanan,tidak,0
+10,30,102.28,1,bulanan,ya,0
+11,38,94.42,1,2 tahun,tidak,0
+12,2,88.1,3,1 tahun,tidak,0
+13,64,43.75,1,bulanan,ya,0
+14,60,60.02,1,bulanan,tidak,1
+15,21,67.77,1,2 tahun,tidak,0
+16,33,28.29,1,bulanan,ya,1
+17,58,72.84,0,1 tahun,ya,0
+18,22,63.63,0,1 tahun,ya,0
+19,49,100.21,0,bulanan,ya,0
+20,59,117.79,1,bulanan,tidak,0
+21,42,75.6,0,1 tahun,tidak,0
+22,60,52.27,1,bulanan,tidak,0
+23,15,24.34,3,bulanan,ya,1
+24,62,112.46,0,2 tahun,ya,0
+25,62,111.91,4,1 tahun,ya,0
+26,47,45.3,4,1 tahun,tidak,1
+27,62,89.54,0,1 tahun,tidak,0
+28,51,27.54,1,1 tahun,ya,1
+29,55,36.62,3,bulanan,tidak,1
+30,64,41.68,1,bulanan,tidak,1
+31,3,49.45,1,bulanan,tidak,0
+32,51,,0,bulanan,tidak,0
+33,7,89.69,2,1 tahun,tidak,0
+34,21,58.42,0,bulanan,tidak,1
+35,39,93.71,1,bulanan,tidak,0
+36,18,111.53,2,bulanan,tidak,0
+37,4,115.87,1,bulanan,ya,1
+38,60,25.79,2,bulanan,ya,1
+39,14,59.45,1,bulanan,ya,1
+40,9,30.68,2,bulanan,tidak,0
+41,53,53.57,2,bulanan,ya,1
+42,2,36.97,2,bulanan,tidak,0
+43,60,84.68,1,1 tahun,tidak,0
+44,71,58.83,0,bulanan,tidak,0
+45,44,42.94,2,bulanan,ya,0
+46,8,46.59,0,1 tahun,tidak,1
+47,47,56.03,0,bulanan,tidak,0
+48,35,,0,2 tahun,tidak,1
+49,36,65.32,0,bulanan,ya,0
+50,50,23.23,1,bulanan,tidak,1
+51,4,47.98,0,1 tahun,ya,1
+52,2,61.12,1,bulanan,ya,0
+53,6,80.28,1,1 tahun,tidak,0
+54,54,47.1,1,bulanan,tidak,0
+55,4,33.32,1,2 tahun,tidak,1
+56,54,27.62,3,bulanan,tidak,1
+57,63,114.05,1,bulanan,tidak,0
+58,18,61.66,0,1 tahun,tidak,0
+59,44,78.12,1,bulanan,ya,1
+60,34,111.92,2,bulanan,tidak,1
+61,62,28.27,4,1 tahun,ya,1
+62,14,107.67,2,2 tahun,tidak,1
+63,48,75.16,2,bulanan,tidak,0
+64,15,36.48,1,1 tahun,ya,1
+65,62,61.13,0,2 tahun,tidak,0
+66,40,97.76,1,2 tahun,tidak,0
+67,53,,4,bulanan,tidak,1
+68,24,,2,1 tahun,tidak,0
+69,26,57.67,0,bulanan,tidak,1
+70,60,94.96,1,2 tahun,tidak,0
+71,41,59.3,3,bulanan,ya,1
+72,29,102.92,1,bulanan,tidak,0
+73,15,76.91,3,1 tahun,tidak,1
+74,45,26.35,0,bulanan,ya,0
+75,65,23.68,1,2 tahun,ya,0
+76,71,33.39,1,2 tahun,tidak,0
+77,9,21.37,2,1 tahun,tidak,1
+78,1,27.54,0,bulanan,tidak,0
+79,8,89.17,0,1 tahun,tidak,0
+80,63,73.43,0,bulanan,ya,0
+81,11,94.99,1,bulanan,ya,0
+82,8,111.32,2,2 tahun,tidak,0
+83,35,78.51,2,bulanan,ya,1
+84,35,92.61,3,bulanan,ya,1
+85,33,95.71,3,2 tahun,ya,1
+86,5,57.79,2,bulanan,tidak,1
+87,41,44.11,0,bulanan,tidak,1
+88,28,40.5,0,2 tahun,ya,0
+89,7,45.14,1,bulanan,tidak,1
+90,12,47.47,1,1 tahun,tidak,1
+91,34,,1,2 tahun,tidak,0
+92,33,107.82,4,2 tahun,ya,1
+93,48,95.7,1,1 tahun,tidak,1
+94,23,24.69,1,bulanan,ya,1
+95,62,46.87,2,bulanan,tidak,0
+96,37,22.22,0,2 tahun,tidak,0
+97,44,69.82,0,2 tahun,ya,0
+98,35,67.62,1,bulanan,tidak,1
+99,65,103.14,0,bulanan,tidak,0
+100,47,50.78,1,bulanan,ya,1
+101,3,101.64,1,bulanan,tidak,1
+102,1,116.8,0,1 tahun,ya,0
+103,5,28.84,0,bulanan,tidak,0
+104,14,99.18,2,2 tahun,tidak,1
+105,27,79.0,0,1 tahun,tidak,0
+106,9,68.0,2,bulanan,ya,1
+107,15,62.05,2,1 tahun,tidak,1
+108,42,98.47,2,bulanan,tidak,1
+109,51,83.94,0,1 tahun,tidak,0
+110,63,100.5,0,1 tahun,tidak,0
+111,52,110.32,3,2 tahun,tidak,0
+112,4,81.73,2,2 tahun,ya,0
+113,23,118.05,0,bulanan,ya,0
+114,15,80.81,2,bulanan,tidak,1
+115,43,83.66,0,1 tahun,ya,0
+116,29,75.48,0,bulanan,tidak,1
+117,36,29.1,0,bulanan,tidak,0
+118,13,92.64,2,bulanan,ya,1
+119,32,74.74,3,1 tahun,tidak,1
+120,71,,2,bulanan,tidak,0
+121,59,111.05,0,1 tahun,tidak,0
+122,28,49.8,2,2 tahun,ya,1
+123,66,72.36,5,bulanan,ya,0
+124,42,89.76,1,bulanan,tidak,1
+125,45,99.65,2,bulanan,tidak,1
+126,62,65.93,3,2 tahun,tidak,1
+127,57,104.21,1,bulanan,tidak,0
+128,6,96.89,0,bulanan,ya,1
+129,28,26.62,0,bulanan,tidak,0
+130,150,24.59,0,1 tahun,ya,1
+131,44,82.08,1,bulanan,tidak,0
+132,30,54.74,0,1 tahun,tidak,0
+133,62,40.91,1,2 tahun,tidak,0
+134,62,77.96,2,bulanan,tidak,1
+135,1,54.16,1,2 tahun,ya,0
+136,27,73.73,2,bulanan,tidak,0
+137,62,66.01,1,2 tahun,ya,0
+138,3,78.48,0,1 tahun,tidak,0
+139,70,60.03,1,2 tahun,ya,0
+140,27,89.77,1,bulanan,tidak,1
+141,9,38.01,1,bulanan,tidak,0
+142,62,89.65,2,bulanan,ya,0
+143,37,61.17,6,bulanan,ya,1
+144,51,107.43,1,bulanan,tidak,0
+145,44,71.52,0,bulanan,tidak,0
+146,24,117.31,1,bulanan,ya,1
+147,59,80.19,1,bulanan,ya,0
+148,32,42.38,1,2 tahun,ya,1
+149,52,102.18,1,bulanan,tidak,0
+150,62,54.51,2,bulanan,tidak,0
+151,58,54.76,1,bulanan,ya,1
+152,52,23.18,2,bulanan,ya,1
+153,12,74.87,2,2 tahun,ya,0
+154,39,73.44,2,bulanan,ya,1
+155,2,55.6,3,1 tahun,tidak,1
+156,3,109.42,0,2 tahun,ya,0
+157,56,32.87,4,2 tahun,ya,0
+158,59,53.01,2,1 tahun,tidak,0
+159,2,52.16,2,2 tahun,ya,0
+160,2,29.23,0,2 tahun,tidak,1
+161,54,68.11,0,1 tahun,tidak,0
+162,1,88.78,2,1 tahun,tidak,0
+163,19,71.17,2,1 tahun,tidak,0
+164,2,35.7,1,bulanan,tidak,0
+165,53,57.73,2,1 tahun,tidak,1
+166,44,20.26,0,bulanan,tidak,0
+167,32,106.83,0,bulanan,tidak,1
+168,70,28.45,0,bulanan,tidak,0
+169,32,,1,bulanan,tidak,0
+170,68,118.63,1,bulanan,ya,0
+171,55,73.66,0,bulanan,ya,0
+172,56,112.4,1,1 tahun,ya,0
+173,17,43.61,1,bulanan,tidak,0
+174,38,96.0,1,2 tahun,tidak,0
+175,24,73.13,3,bulanan,tidak,1
+176,69,92.05,2,bulanan,tidak,0
+177,70,26.23,1,1 tahun,tidak,0
+178,11,34.77,1,1 tahun,ya,0
+179,16,33.31,1,bulanan,tidak,1
+180,59,88.72,4,2 tahun,tidak,0
+181,70,104.44,1,2 tahun,tidak,0
+182,3,94.96,2,bulanan,ya,1
+183,20,23.05,2,bulanan,tidak,1
+184,59,106.72,1,2 tahun,tidak,0
+185,36,55.41,1,1 tahun,tidak,0
+186,19,59.72,0,bulanan,tidak,1
+187,67,30.49,1,2 tahun,tidak,0
+188,19,93.74,1,bulanan,ya,0
+189,20,38.23,2,bulanan,tidak,0
+190,71,76.4,1,bulanan,tidak,0
+191,52,104.07,2,1 tahun,tidak,0
+192,33,28.92,2,1 tahun,tidak,1
+193,40,73.53,0,1 tahun,ya,0
+194,39,43.32,0,bulanan,ya,0
+195,1,54.29,2,bulanan,tidak,1
+196,11,67.4,1,bulanan,tidak,0
+197,57,55.51,0,1 tahun,tidak,0
+198,50,84.88,1,bulanan,ya,1
+199,23,67.96,1,bulanan,tidak,1
+200,31,78.42,1,2 tahun,tidak,0
+201,42,93.68,1,bulanan,tidak,1
+202,7,75.77,2,2 tahun,ya,0
+203,16,78.65,2,bulanan,tidak,0
+204,60,76.45,1,1 tahun,tidak,0
+205,2,57.88,1,bulanan,ya,1
+206,1,53.74,0,2 tahun,tidak,1
+207,48,109.96,0,bulanan,tidak,0
+208,12,80.76,1,bulanan,tidak,0
+209,69,44.44,0,bulanan,tidak,1
+210,37,69.82,0,bulanan,ya,1
+211,32,53.03,0,bulanan,ya,0
+212,9,113.37,2,2 tahun,tidak,1
+213,19,20.75,2,bulanan,ya,0
+214,48,42.53,2,1 tahun,tidak,0
+215,3,56.54,0,1 tahun,ya,1
+216,20,68.78,1,1 tahun,tidak,0
+217,24,105.08,1,bulanan,tidak,1
+218,54,28.79,0,bulanan,tidak,1
+219,33,100.59,0,1 tahun,tidak,0
+220,24,25.57,2,2 tahun,tidak,1
+221,36,104.23,0,bulanan,tidak,1
+222,38,25.16,1,bulanan,ya,0
+223,25,21.82,0,bulanan,tidak,1
+224,18,89.7,1,2 tahun,tidak,0
+225,66,119.73,2,bulanan,tidak,0
+226,150,109.66,0,bulanan,tidak,0
+227,35,77.6,0,2 tahun,tidak,0
+228,61,111.74,3,bulanan,tidak,1
+229,41,20.53,5,bulanan,ya,0
+230,33,117.51,1,1 tahun,tidak,0
+231,68,69.07,0,2 tahun,tidak,0
+232,33,92.29,1,bulanan,ya,0
+233,14,102.09,3,bulanan,tidak,1
+234,21,91.85,0,bulanan,ya,1
+235,48,73.5,0,bulanan,tidak,0
+236,20,67.66,3,1 tahun,tidak,0
+237,8,103.86,2,bulanan,tidak,1
+238,7,40.51,2,bulanan,tidak,1
+239,67,116.8,1,bulanan,tidak,0
+240,17,91.1,2,1 tahun,ya,0
+241,33,39.95,1,bulanan,tidak,1
+242,48,93.62,2,2 tahun,tidak,1
+243,59,72.98,0,bulanan,ya,0
+244,22,90.72,1,2 tahun,ya,1
+245,30,96.78,2,2 tahun,ya,0
+246,38,28.73,5,bulanan,ya,1
+247,51,70.61,0,bulanan,tidak,1
+248,54,113.2,1,bulanan,tidak,0
+249,8,52.06,1,bulanan,ya,0
+250,27,,2,bulanan,tidak,1
+251,27,56.92,2,bulanan,ya,1
+252,21,65.43,1,bulanan,tidak,0
+253,30,74.86,2,2 tahun,tidak,1
+254,28,74.89,0,bulanan,ya,0
+255,64,40.17,1,2 tahun,tidak,0
+256,69,88.46,0,bulanan,tidak,0
+257,61,28.79,2,2 tahun,ya,0
+258,48,33.88,2,1 tahun,ya,0
+259,19,20.27,0,bulanan,tidak,0
+260,4,31.67,1,1 tahun,tidak,1
+261,35,67.32,3,bulanan,tidak,1
+262,64,80.61,2,bulanan,tidak,1
+263,49,99.43,0,2 tahun,tidak,0
+264,17,30.67,1,bulanan,tidak,1
+265,44,105.07,2,bulanan,tidak,1
+266,30,94.6,2,1 tahun,tidak,0
+267,46,60.85,0,2 tahun,ya,0
+268,6,113.29,0,1 tahun,tidak,0
+269,37,119.09,2,bulanan,tidak,0
+270,24,40.5,2,1 tahun,ya,0
+271,46,57.92,2,bulanan,tidak,1
+272,53,112.64,1,1 tahun,ya,0
+273,60,92.16,1,2 tahun,tidak,0
+274,63,24.81,4,1 tahun,tidak,1
+275,32,98.15,1,2 tahun,ya,1
+276,33,102.79,0,bulanan,ya,0
+277,67,95.05,2,1 tahun,tidak,0
+278,18,99.95,0,2 tahun,tidak,0
+279,25,102.51,1,bulanan,ya,0
+280,54,38.64,0,2 tahun,tidak,0
+281,150,43.57,1,bulanan,ya,0
+282,67,83.38,1,1 tahun,tidak,0
+283,46,110.79,0,2 tahun,tidak,0
+284,24,51.62,0,1 tahun,tidak,0
+285,32,78.83,2,bulanan,tidak,0
+286,47,88.3,2,1 tahun,tidak,0
+287,23,65.19,1,bulanan,tidak,1
+288,66,91.38,1,2 tahun,ya,0
+289,27,109.97,2,bulanan,ya,1
+290,2,82.41,2,bulanan,ya,0
+291,17,73.98,1,1 tahun,tidak,0
+292,33,63.87,1,bulanan,ya,0
+293,9,77.75,2,1 tahun,tidak,1
+294,43,55.54,1,1 tahun,tidak,0
+295,48,59.15,2,2 tahun,ya,0
+296,39,73.19,1,1 tahun,tidak,0
+297,42,26.66,0,bulanan,tidak,0
+298,26,42.9,1,bulanan,tidak,1
+299,50,74.28,2,bulanan,tidak,1
+300,25,63.15,1,bulanan,tidak,1
+301,24,53.28,3,bulanan,tidak,0
+302,13,93.05,1,1 tahun,ya,0
+303,60,89.37,1,1 tahun,tidak,0
+304,7,36.67,0,bulanan,tidak,0
+305,57,,2,2 tahun,ya,0
+306,36,,0,2 tahun,tidak,0
+307,45,94.15,1,2 tahun,ya,1
+308,20,77.32,2,1 tahun,tidak,0
+309,65,119.77,1,bulanan,ya,0
+310,8,95.24,0,bulanan,tidak,1
+311,16,,3,bulanan,tidak,1
+312,14,97.86,0,bulanan,tidak,1
+313,15,34.31,0,2 tahun,tidak,0
+314,66,40.45,0,2 tahun,ya,0
+315,32,91.41,0,bulanan,tidak,1
+316,63,69.4,1,bulanan,ya,0
+317,51,95.46,1,2 tahun,tidak,0
+318,25,30.29,2,bulanan,tidak,0
+319,58,73.65,2,bulanan,tidak,1
+320,63,57.88,2,2 tahun,tidak,0
+321,62,65.7,1,bulanan,tidak,1
+322,22,80.4,1,bulanan,tidak,1
+323,58,,2,bulanan,tidak,0
+324,58,73.99,1,2 tahun,tidak,1
+325,49,68.64,0,1 tahun,ya,0
+326,52,60.9,1,bulanan,ya,1
+327,42,97.19,0,bulanan,ya,1
+328,70,21.22,0,bulanan,tidak,0
+329,15,79.84,0,1 tahun,ya,0
+330,54,76.55,3,1 tahun,tidak,0
+331,60,91.62,1,bulanan,ya,0
+332,8,79.9,1,2 tahun,ya,0
+333,53,102.68,2,bulanan,tidak,1
+334,60,115.91,3,bulanan,tidak,1
+335,5,54.25,1,bulanan,ya,0
+336,68,42.74,0,bulanan,tidak,1
+337,6,62.36,0,bulanan,ya,1
+338,47,48.79,1,bulanan,tidak,0
+339,55,81.5,3,bulanan,tidak,1
+340,40,111.19,1,1 tahun,ya,0
+341,52,,0,bulanan,tidak,1
+342,16,30.08,1,1 tahun,tidak,0
+343,13,45.6,1,2 tahun,tidak,0
+344,30,92.61,0,bulanan,ya,0
+345,19,79.3,0,bulanan,ya,1
+346,17,30.22,2,bulanan,tidak,0
+347,63,111.88,0,bulanan,ya,0
+348,19,99.01,1,bulanan,tidak,0
+349,58,22.3,0,1 tahun,tidak,0
+350,55,85.14,1,1 tahun,tidak,1
+351,62,97.12,0,bulanan,ya,1
+352,23,57.44,2,2 tahun,ya,1
+353,9,26.89,0,bulanan,tidak,1
+354,12,27.73,0,2 tahun,ya,0
+355,1,30.42,0,1 tahun,ya,0
+356,58,104.04,0,1 tahun,ya,0
+357,1,111.07,4,bulanan,tidak,1
+358,34,32.28,1,bulanan,tidak,0
+359,48,43.59,1,2 tahun,ya,1
+360,1,36.55,0,bulanan,ya,1
+361,16,38.63,2,2 tahun,ya,1
+362,61,103.75,0,bulanan,tidak,0
+363,64,53.21,2,bulanan,tidak,0
+364,63,51.14,1,bulanan,tidak,0
+365,69,42.74,1,bulanan,tidak,0
+366,22,80.79,2,2 tahun,tidak,0
+367,67,57.93,0,bulanan,tidak,0
+368,26,94.42,0,bulanan,tidak,1
+369,16,40.56,1,bulanan,ya,0
+370,51,98.78,2,bulanan,ya,0
+371,57,80.37,0,bulanan,ya,0
+372,29,31.43,0,bulanan,ya,0
+373,69,61.45,1,2 tahun,tidak,0
+374,47,106.35,3,bulanan,tidak,0
+375,62,112.3,2,bulanan,ya,0
+376,69,66.57,0,bulanan,tidak,0
+377,16,68.08,3,bulanan,tidak,1
+378,48,111.85,0,2 tahun,ya,0
+379,39,78.71,1,bulanan,ya,1
+380,33,23.28,3,bulanan,tidak,0
+381,23,111.27,1,1 tahun,tidak,0
+382,10,44.82,3,bulanan,ya,1
+383,69,77.76,2,bulanan,ya,0
+384,34,36.55,0,2 tahun,tidak,0
+385,150,23.39,3,1 tahun,ya,1
+386,10,51.15,0,2 tahun,tidak,0
+387,19,98.05,1,bulanan,tidak,1
+388,58,47.76,5,bulanan,ya,1
+389,1,42.01,1,bulanan,tidak,0
+390,69,41.27,1,bulanan,tidak,0
+391,4,71.52,1,2 tahun,ya,0
+392,16,117.55,3,bulanan,tidak,1
+393,24,65.9,2,2 tahun,tidak,1
+394,2,75.73,0,1 tahun,tidak,0
+395,32,106.06,0,bulanan,ya,1
+396,24,73.51,0,bulanan,tidak,0
+397,12,38.45,3,1 tahun,tidak,1
+398,50,49.96,0,bulanan,ya,1
+399,35,50.99,1,2 tahun,ya,0
+400,33,59.73,2,bulanan,ya,0
+401,33,62.68,1,bulanan,tidak,0
+402,61,99.98,0,1 tahun,ya,0
+403,51,54.94,0,2 tahun,ya,0
+404,43,66.82,1,bulanan,tidak,0
+405,12,82.5,1,2 tahun,ya,0
+406,67,57.77,1,bulanan,ya,1
+407,65,103.66,0,1 tahun,ya,0
+408,33,78.75,3,1 tahun,ya,0
+409,40,49.4,2,bulanan,ya,1
+410,43,91.41,1,bulanan,tidak,1
+411,44,72.76,2,1 tahun,ya,0
+412,29,73.45,3,bulanan,ya,1
+413,13,68.11,0,1 tahun,tidak,0
+414,12,69.7,1,bulanan,tidak,0
+415,46,96.54,0,2 tahun,tidak,0
+416,2,30.3,2,1 tahun,tidak,1
+417,35,53.44,1,2 tahun,ya,0
+418,8,27.55,2,bulanan,tidak,0
+419,26,95.32,1,1 tahun,tidak,0
+420,34,47.23,3,1 tahun,ya,0
+421,7,109.74,0,bulanan,tidak,0
+422,68,72.66,0,bulanan,ya,0
+423,58,100.07,2,bulanan,tidak,1
+424,29,117.89,0,1 tahun,ya,1
+425,36,103.98,3,bulanan,tidak,0
+426,21,106.7,0,bulanan,tidak,1
+427,36,60.8,0,1 tahun,tidak,1
+428,10,75.17,2,bulanan,ya,1
+429,24,45.39,3,bulanan,tidak,0
+430,64,39.61,1,2 tahun,tidak,0
+431,49,70.55,4,2 tahun,tidak,0
+432,36,79.5,3,bulanan,tidak,0
+433,24,53.93,2,bulanan,tidak,1
+434,23,76.94,0,1 tahun,tidak,0
+435,62,108.75,1,bulanan,ya,1
+436,37,75.67,1,bulanan,tidak,0
+437,12,92.08,0,bulanan,ya,0
+438,55,100.53,1,bulanan,tidak,1
+439,13,118.87,0,1 tahun,tidak,0
+440,23,80.32,0,bulanan,tidak,0
+441,150,100.69,0,1 tahun,ya,0
+442,17,116.26,0,2 tahun,tidak,0
+443,62,114.44,1,bulanan,tidak,0
+444,13,34.11,3,1 tahun,tidak,1
+445,59,60.64,0,2 tahun,tidak,0
+446,19,52.4,1,bulanan,ya,1
+447,49,28.69,1,bulanan,tidak,1
+448,12,83.32,1,1 tahun,tidak,1
+449,61,93.59,1,1 tahun,ya,0
+450,19,104.81,0,2 tahun,ya,0
+451,9,32.28,3,bulanan,tidak,1
+452,71,107.64,2,2 tahun,tidak,0
+453,28,84.29,0,bulanan,tidak,0
+454,52,90.39,1,bulanan,tidak,0
+455,16,111.06,1,1 tahun,ya,1
+456,69,82.48,3,bulanan,ya,1
+457,12,53.59,0,bulanan,ya,0
+458,25,102.51,2,bulanan,ya,1
+459,52,56.31,5,bulanan,ya,1
+460,53,23.42,2,bulanan,ya,0
+461,23,103.07,2,2 tahun,tidak,1
+462,16,54.52,3,bulanan,tidak,0
+463,57,97.38,1,1 tahun,tidak,0
+464,39,56.28,1,1 tahun,tidak,0
+465,53,106.11,1,2 tahun,tidak,0
+466,42,41.95,3,bulanan,ya,1
+467,58,117.45,3,2 tahun,ya,0
+468,39,97.98,0,bulanan,ya,0
+469,14,31.42,0,1 tahun,ya,0
+470,5,76.58,0,1 tahun,tidak,1
+471,35,118.54,2,2 tahun,ya,0
+472,18,67.11,0,bulanan,ya,0
+473,9,38.21,0,1 tahun,ya,0
+474,58,68.48,0,bulanan,tidak,1
+475,17,71.25,0,1 tahun,tidak,0
+476,7,94.17,0,2 tahun,tidak,0
+477,46,89.88,0,bulanan,ya,0
+478,13,60.26,2,2 tahun,tidak,0
+479,40,41.8,2,bulanan,tidak,0
+480,42,,0,bulanan,tidak,0
+481,9,62.17,1,bulanan,tidak,1
+482,50,33.23,2,bulanan,ya,0
+483,27,110.06,1,1 tahun,tidak,1
+484,66,89.12,0,bulanan,tidak,0
+485,5,88.32,0,bulanan,ya,0
+486,29,,2,2 tahun,tidak,0
+487,37,72.97,2,2 tahun,tidak,1
+488,38,101.51,2,2 tahun,ya,0
+489,8,69.81,1,2 tahun,tidak,1
+490,65,26.72,1,1 tahun,tidak,0
+491,17,60.52,1,bulanan,tidak,1
+492,71,69.75,2,bulanan,ya,1
+493,45,92.02,0,1 tahun,tidak,0
+494,4,30.66,1,bulanan,ya,1
+495,36,34.0,0,1 tahun,tidak,0
+496,70,46.37,3,bulanan,ya,1
+497,31,46.65,1,bulanan,tidak,1
+498,19,93.22,2,bulanan,tidak,1
+499,61,45.07,0,1 tahun,tidak,0
+500,54,83.31,2,1 tahun,tidak,1
